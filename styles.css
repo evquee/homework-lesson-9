@@ -187,26 +187,26 @@ a {
     gap: var(--gap);
 }
 
-.experience__item--description {
+.experience__item-description {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     line-height: 1;
 }
 
-.experience__item--number {
+.experience__item-number {
     font-size: 1.3125rem;
     font-weight: 500;
     margin-top: -1px;
 }
 
-.experience__item--label {}
+.experience__item-label {}
 
-.experience__item--picture {
+.experience__item-picture {
     order: -1;
 }
 
-.experience__item--image {
+.experience__item-image {
     display: block;
 }
 
