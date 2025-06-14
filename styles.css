@@ -181,6 +181,7 @@ a {
     flex-direction: column;
     justify-content: space-between;
     line-height: 1;
+    order: 1;
 }
 
 .experience__item-number {
